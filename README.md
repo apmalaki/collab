@@ -2,4 +2,5 @@
 Practice Collaboration
 
 Author: Adam Malaki
-BU
+BU (Boston University)
+
